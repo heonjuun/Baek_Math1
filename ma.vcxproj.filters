@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ma.cpp">
+    <ClCompile Include="2745.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="honer%27srule.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
