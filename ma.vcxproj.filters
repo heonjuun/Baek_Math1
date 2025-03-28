@@ -21,5 +21,17 @@
     <ClCompile Include="honer%27srule.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11005.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="study1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="study2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="study3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,8 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11005.c" />
     <ClCompile Include="2745.c" />
     <ClCompile Include="honer%27srule.c" />
+    <ClCompile Include="study1.c" />
+    <ClCompile Include="study2.c" />
+    <ClCompile Include="study3.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
