@@ -129,7 +129,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="11005.c" />
+    <ClCompile Include="1193.c" />
+    <ClCompile Include="2292.c" />
+    <ClCompile Include="2720.c" />
     <ClCompile Include="2745.c" />
+    <ClCompile Include="2903.c" />
     <ClCompile Include="honer%27srule.c" />
     <ClCompile Include="study1.c" />
     <ClCompile Include="study2.c" />
